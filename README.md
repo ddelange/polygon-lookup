@@ -24,7 +24,6 @@ We think open data, open source, and open strategy win over proprietary solution
 
 # polygon-lookup
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/pelias/polygon-lookup.svg)](https://greenkeeper.io/)
 
 [![NPM](https://nodei.co/npm/polygon-lookup.png)](https://nodei.co/npm/polygon-lookup/)
 
